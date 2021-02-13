@@ -1,0 +1,16 @@
+table {
+    border: solid 5px black;
+    background-color: black;
+}
+tr, td{
+    border: solid 5px black;
+}
+.X {
+    background-color: violet;
+}
+.O {
+    background-color: teal;
+}
+body {
+    background-color: lightslategray;
+}
